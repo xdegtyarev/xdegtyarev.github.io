@@ -1,2 +1,2 @@
-# xdegtyarev.github.io
+# xdegtyarev.com
 Just a github-hosted weblog
